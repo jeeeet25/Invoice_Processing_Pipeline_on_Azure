@@ -83,16 +83,6 @@ This pipeline automates the **end-to-end lifecycle**: from receiving invoices in
 ---
 
 ## 📊 Architecture Diagram  
-*(Insert diagram here – Azure icons showing flow from Outlook → SharePoint → ADLS Raw → ADF/Databricks → ADLS Silver → Gold → Synapse → Power BI → Alerts/Monitoring)*  
+<img width="768" height="59" alt="invoice_pipeline_diagram" src="https://github.com/user-attachments/assets/3b4505e0-08c0-410f-b447-5c708cdf7440" />
 
----
 
-## 📂 Repository Structure  
-```bash
-.
-├── README.md
-├── architecture-diagram.png
-├── notebooks/          # Databricks ETL notebooks
-├── pipelines/          # ADF pipeline JSON exports
-├── sample_data/        # Example invoice files
-└── powerbi/            # PBIX files or screenshots
