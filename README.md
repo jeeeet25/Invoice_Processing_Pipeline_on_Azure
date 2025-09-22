@@ -7,6 +7,11 @@ The pipeline uses **Power Automate, SharePoint, Azure Data Lake Storage (ADLS Ge
 
 ---
 
+## 📊 Architecture Diagram  
+<img width="768" height="59" alt="invoice_pipeline_diagram" src="https://github.com/user-attachments/assets/3b4505e0-08c0-410f-b447-5c708cdf7440" />
+
+---
+
 ## 🎯 Business Problem  
 Finance and procurement teams often face challenges in **managing vendor invoices**:  
 - Manual processing is slow and error-prone.  
@@ -82,7 +87,6 @@ This pipeline automates the **end-to-end lifecycle**: from receiving invoices in
 
 ---
 
-## 📊 Architecture Diagram  
-<img width="768" height="59" alt="invoice_pipeline_diagram" src="https://github.com/user-attachments/assets/3b4505e0-08c0-410f-b447-5c708cdf7440" />
+
 
 
