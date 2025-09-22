@@ -8,7 +8,8 @@ The pipeline uses **Power Automate, SharePoint, Azure Data Lake Storage (ADLS Ge
 ---
 
 ## 📊 Architecture Diagram  
-<img width="768" height="59" alt="invoice_pipeline_diagram" src="https://github.com/user-attachments/assets/3b4505e0-08c0-410f-b447-5c708cdf7440" />
+<img width="1536" height="1024" alt="ChatGPT Image Sep 22, 2025, 03_30_03 PM" src="https://github.com/user-attachments/assets/9992b248-cd3c-4242-9787-d39d00ede94b" />
+
 
 ---
 
