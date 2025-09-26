@@ -1,4 +1,4 @@
-![invoice-processing drawio](https://github.com/user-attachments/assets/50692594-6f2a-480f-adba-b9f83ef4c676)# Invoice Processing Pipeline on Azure  
+
 
 ## 📌 Project Overview  
 This project demonstrates an **end-to-end invoice processing pipeline** built on **Azure cloud services**, designed to automate ingestion, transformation, and reporting of financial invoice data.  
